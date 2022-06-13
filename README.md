@@ -30,7 +30,8 @@
 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jso4342)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jso4342&show_icons=true&theme=dracula&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;color=fff") <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jso4342&amp;theme=omni&amp;hide_border=false) 
 
 
 <!--
