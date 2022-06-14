@@ -34,6 +34,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jso4342&show_icons=true&theme=dracula&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;color=fff") <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jso4342&amp;theme=omni&amp;hide_border=false) 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjso4342%2Fhit-counter&count_bg=%23B764CF&title_bg=%23FF82CF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **jso4342/jso4342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
