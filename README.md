@@ -2,8 +2,8 @@
 
 	
 👋 안녕하세요! 성장하는 개발자 장서영 입니다. <br>
-* 노션 - [![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://rain-gerbera-4e4.notion.site/17a68e7014104b0594988cd72067fcf9)](
-  https://rain-gerbera-4e4.notion.site/17a68e7014104b0594988cd72067fcf9)
+* 노션 - [![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=[https://rain-gerbera-4e4.notion.site/17a68e7014104b0594988cd72067fcf9](https://www.notion.so/ee713d77980e45879564df3ea8e2eec0))](
+  https://www.notion.so/ee713d77980e45879564df3ea8e2eec0)
 * 기술 블로그 - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&link=https://kiyoung-noona.tistory.com/)](https://kiyoung-noona.tistory.com/)  
 * 이메일 - [![Gmail Badge](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jso4342@naver.com)](mailto:jso4342@naver.com)  
 
